@@ -6,7 +6,7 @@ The design is for a shipment dashboard where the various shipments are shown whi
 
 ## Project Status
 
-https://flipr-coding-task.herokuapp.com/
+http://ec2-52-66-190-226.ap-south-1.compute.amazonaws.com:3000/
 
 ## Screenshots
 
